@@ -1,7 +1,7 @@
 # This file is used by the Drone CI Server and Agents to determine what
 # should happen (if anything) in response to git pushes and pull requests.
 clone:
-  depth: 50
+  depth: 51
   recursive: false
   tags: false
   # This is explicitly set so that forks retain a constant path.
